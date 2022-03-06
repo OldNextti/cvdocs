@@ -14,6 +14,8 @@ máquina para realizar tarefas de forma automática.
 
 >- 1ª Punição: Banimento permanente
 
+------------------------------------------- // -------------------------------------------
+
 ### **02 - Respeite a todos**
 
 Prezamos por uma comunidade amigável e divertida!
@@ -27,11 +29,15 @@ Não crie intrigas e não fique com indiretas sobre algo que não lhe agrada.
 >- 3ª Punição: 07 dias silenciado
 >- 4ª Punição: Banimento permanente
 
+------------------------------------------- // -------------------------------------------
+
 ### **03 - Preconceito**
 
-Não toleramos de forma alguma qualquer forma de preconceito!
+Não toleramos de maneira alguma qualquer forma de preconceito!
 
 >- 1ª Punição: Banimento permanente
+
+------------------------------------------- // -------------------------------------------
 
 ### **04 - Desinformação**
 
@@ -45,3 +51,5 @@ jogador a abrir um ticket no discord ou a entrar em contato com o suporte in-gam
 >- 2ª Punição: 01 dia silenciado
 >- 3ª Punição: 07 dias silenciado
 >- 4ª Punição: Banimento permanente
+
+------------------------------------------- // -------------------------------------------
