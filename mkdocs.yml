@@ -1,0 +1,37 @@
+site_name: Cataclysm
+
+site_url: https://cataclysm.com.br
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/WalberthLopes
+      name: WalberthLopes GitHub
+
+copyright: Copyright &copy; 2021 - 2022 Cataclysm - By WalberthLopes
+
+theme:
+
+  palette: 
+    scheme: slate
+    primary: orange
+
+  font:
+    text: Syne Mono
+
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+
+  name: material
+
+  language: pt-BR
+
+  favicon: server-icon.png
+
+  logo: server-icon.png
+
+nav:
+  - Home: index.md
+  - Regras: regras.md
+  - Loja: loja.md
