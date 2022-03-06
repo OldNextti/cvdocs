@@ -22,3 +22,4 @@ Possuímos diversos sistemas para levar o modo sobrevivência padrão a outro n�
 Contamos com McMMO, Jobs, Ecomonia balanceada, Eventos diários, Equipe de suporte
 sempre ativa, RankUP e muito, muito mais!
 
+teste
