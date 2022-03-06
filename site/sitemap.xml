@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://cataclysm.com.br/</loc>
+         <loc>None</loc>
          <lastmod>2022-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://cataclysm.com.br/loja/</loc>
+         <loc>None</loc>
          <lastmod>2022-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://cataclysm.com.br/regras/</loc>
+         <loc>None</loc>
+         <lastmod>2022-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>None</loc>
          <lastmod>2022-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>

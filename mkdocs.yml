@@ -1,7 +1,5 @@
 site_name: Cataclysm
 
-site_url: https://cataclysm.com.br
-
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -34,4 +32,5 @@ theme:
 nav:
   - Home: index.md
   - Regras: regras.md
+  - Tutoriais: tutoriais.md 
   - Loja: loja.md
