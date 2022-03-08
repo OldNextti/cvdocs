@@ -38,10 +38,10 @@ Vence o último de pé na plataforma.
 
 ### **2. Pinhata**
 
-Neste evento uma pinhata é sumonada no spawn sempre que
+Neste evento uma Pinhata é sumonada no spawn sempre que
 30 votos são realizados dentro do servidor e a cada hit
-na pinhata você tem a chance de receber um item aleatório.
+na Pinhata você tem a chance de receber um item aleatório.
 
 Os itens vão desde a um simples pedaço de couro até chaves raras.
 
->Bater na pinhata com as mãos pode ser mais efetivo.
+>Bater na Pinhata com as mãos pode ser mais efetivo.
