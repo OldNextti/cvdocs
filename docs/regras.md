@@ -1,11 +1,11 @@
 # **Regras do servidor e discord**
 
-### **01 - Programas ilegais**
+## **01 - Programas ilegais**
 
 Qualquer modificação que lhe garanta vantagens desleais não é permitido!
 
 O uso de programas, modificações ou clients para voar, encontrar blocos,
-atacar mais rápido, causar mais dano, visualizar players invisiveis e
+atacar mais rápido, causar mais dano, visualizar players invisíveis e
 qualquer outra alteração não é permitido.
 
 Não é permitido o uso de softwares, hardwares, pesos, elásticos,
@@ -16,7 +16,7 @@ máquina para realizar tarefas de forma automática.
 
 ------------------------------------------- // -------------------------------------------
 
-### **02 - Respeite a todos**
+## **02 - Respeite a todos**
 
 Prezamos por uma comunidade amigável e divertida!
 
@@ -31,7 +31,7 @@ Não crie intrigas e não fique com indiretas sobre algo que não lhe agrada.
 
 ------------------------------------------- // -------------------------------------------
 
-### **03 - Preconceito**
+## **03 - Preconceito**
 
 Não toleramos de maneira alguma qualquer forma de preconceito!
 
@@ -39,11 +39,11 @@ Não toleramos de maneira alguma qualquer forma de preconceito!
 
 ------------------------------------------- // -------------------------------------------
 
-### **04 - Desinformação**
+## **04 - Desinformação**
 
 Não passe instruções erradas aos jogadores!
 
-É proíbido passar informações erradas a respeito de qualquer sistema do servidor.
+É proibido passar informações erradas a respeito de qualquer sistema do servidor.
 Caso não possua total entendimento do que estiver dizendo, apenas instrua o
 jogador a abrir um ticket no discord ou a entrar em contato com o suporte in-game.
 

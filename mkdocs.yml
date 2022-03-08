@@ -9,8 +9,7 @@ extra:
 copyright: Copyright &copy; 2021 - 2022 Cataclysm - By WalberthLopes
 
 theme:
-
-  palette: 
+  palette:
     scheme: slate
     primary: orange
 
@@ -35,3 +34,4 @@ nav:
   - Tutoriais: tutoriais.md
   - Updates: updates.md
   - Loja: loja.md
+  - Formulário: form.md

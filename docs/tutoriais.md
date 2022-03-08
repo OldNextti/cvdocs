@@ -7,7 +7,7 @@ E lembre-se, caso após realizar a leitura de um tutorial
 você ainda possuir dúvidas, abra um ticket em nosso discord
 e nosso suporte irá atende-lo da melhor forma possível.
 
-### **Claims**
+## **Claims**
 
 >Com a proteção de terrenos é possível impedir que outros
 jogadores modifiquem suas construções ou peguem seus itens.
@@ -17,7 +17,7 @@ jogadores modifiquem suas construções ou peguem seus itens.
 2. Segure-a na mão e informações aparecerão em seu chat.
 
 3. Com a pá em mãos, clique com o botão direito do mouse em um bloco
-no chão e ele será transformado temporáriamente em um bloco diamante
+no chão e ele será transformado temporariamente em um bloco diamante
 para determinar a marcação inicial.
 
 4. Feita a marcação inicial, ainda com a pá em mãos, clique com o botão
@@ -33,14 +33,14 @@ bloco para redefinir a área de seu terreno.
 
 ------------------------------------------- // -------------------------------------------
 
-### **Coins e economia**
+## **Coins e economia**
 
 >Os coins fazem parte da economia do servidor e com eles
 você pode comprar itens do servidor ou de outros jogadores.
 
 A forma mais simples de se conseguir coins é através dos Jobs,
 pois você será pago pelas atividades que realizar no servidor.
-No entanto uma licença deve ser comprada atrvés do NPC de Jobs
+No entanto uma licença deve ser comprada através do NPC de Jobs
 para que você tenha acesso ao trabalho.
 
 Você também pode conseguir coins ganhando eventos, vendendo itens
