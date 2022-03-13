@@ -1,4 +1,4 @@
-site_name: Cataclysm
+site_name: Cube Cave
 
 extra:
   social:
@@ -6,7 +6,7 @@ extra:
       link: https://github.com/WalberthLopes
       name: WalberthLopes GitHub
 
-copyright: Copyright &copy; 2021 - 2022 Cataclysm - By WalberthLopes
+copyright: Copyright &copy; 2021 - 2022 Cube Cave - By WalberthLopes
 
 theme:
   palette:
