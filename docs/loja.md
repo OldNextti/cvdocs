@@ -4,7 +4,7 @@ Com a sua doação o servidor pode continuar online e em constante evolução.
 
 ## **Como funcionam as doações**
 
-As doações são realizadas através do nosso [site](https://catashop.tebex.io/).
+As doações são realizadas através do nosso [site](https://cubec.tebex.io/).
 
 Métodos: Pix, Boleto, Cartão de crédito, MercadoPago, PicPay e PayPal
 

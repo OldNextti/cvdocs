@@ -4,7 +4,7 @@ Acesse nosso discord caso tenha dúvidas: [Discord](https://discord.com/invite/n
 
 Informações que você encontrará na wiki:
 
-- Todas as regras do Cataclysm
+- Todas as regras do Cube Cave
 - Plugins usados no servidor
 - Informações sobre os Jobs e McMMO
 - Tutoriais avançados
