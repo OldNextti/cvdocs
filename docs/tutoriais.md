@@ -1,4 +1,4 @@
-# **Claims**
+## **Claims**
 
 >Com a proteção de terrenos é possível impedir que outros
 jogadores modifiquem suas construções ou peguem seus itens.
@@ -21,8 +21,9 @@ luminosa e bloco de ouro aparecerão indicando os limites do terreno.
 clicar com o botão direito do mouse no bloco de pedra luminosa que delimita
 seu terreno e então clicar novamente com o botão direito do mouse em um novo
 bloco para redefinir a área de seu terreno.
+#
 
-# **Lojas**
+## **Lojas**
 
 >Há duas etapas para a criação de uma loja dentro do servidor. O baú e placa e as PlayerWarps.
 
