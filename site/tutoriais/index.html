@@ -17,10 +17,10 @@
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/main.css">
+      <link rel="stylesheet" href="../assets/stylesheets/main.2d9f7617.min.css">
       
         
-        <link rel="stylesheet" href="../assets/stylesheets/palette.css">
+        <link rel="stylesheet" href="../assets/stylesheets/palette.e6a45f82.min.css">
         
           
           
@@ -63,7 +63,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#tutoriais-avancados" class="md-skip">
+        <a href="#claims" class="md-skip">
           Pular para conteúdo
         </a>
       
@@ -318,47 +318,9 @@
         
       
       
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          Tutoriais
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
       <a href="./" class="md-nav__link md-nav__link--active">
         Tutoriais
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Indice">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Indice
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#claims" class="md-nav__link">
-    Claims
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#coins-e-economia" class="md-nav__link">
-    Coins e economia
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
       
     </li>
   
@@ -444,28 +406,6 @@
     
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Indice
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#claims" class="md-nav__link">
-    Claims
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#coins-e-economia" class="md-nav__link">
-    Coins e economia
-  </a>
-  
-</li>
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
@@ -478,20 +418,14 @@
                 
 
 
-<h1 id="tutoriais-avancados"><strong>Tutoriais avançados</strong></h1>
-<p>Através desta página você encontrará diversos tutoriais
-avançados sobre todos os sistemas que o servidor possui.</p>
-<p>E lembre-se, caso após realizar a leitura de um tutorial
-você ainda possuir dúvidas, abra um ticket em nosso discord
-e nosso suporte irá atende-lo da melhor forma possível.</p>
-<h2 id="claims"><strong>Claims</strong></h2>
+<h1 id="claims"><strong>Claims</strong></h1>
 <blockquote>
 <p>Com a proteção de terrenos é possível impedir que outros
 jogadores modifiquem suas construções ou peguem seus itens.</p>
 </blockquote>
 <ol>
 <li>
-<p>Utilize o comando <code>/kit claim</code> in-game para receber a pá de proteção.</p>
+<p>Utilize o comando /kit claim in-game para receber a pá de proteção.</p>
 </li>
 <li>
 <p>Segure-a na mão e informações aparecerão em seu chat.</p>
@@ -516,30 +450,55 @@ clicar com o botão direito do mouse no bloco de pedra luminosa que delimita
 seu terreno e então clicar novamente com o botão direito do mouse em um novo
 bloco para redefinir a área de seu terreno.</p>
 </blockquote>
-<p>------------------------------------------- // -------------------------------------------</p>
-<h2 id="coins-e-economia"><strong>Coins e economia</strong></h2>
+<h1 id="lojas"><strong>Lojas</strong></h1>
 <blockquote>
-<p>Os coins fazem parte da economia do servidor e com eles
-você pode comprar itens do servidor ou de outros jogadores.</p>
+<p>Há duas etapas para a criação de uma loja dentro do servidor. O baú e placa e as PlayerWarps.</p>
 </blockquote>
-<p>A forma mais simples de se conseguir coins é através dos Jobs,
-pois você será pago pelas atividades que realizar no servidor.
-No entanto uma licença deve ser comprada através do NPC de Jobs
-para que você tenha acesso ao trabalho.</p>
-<p>Você também pode conseguir coins ganhando eventos, vendendo itens
-nas lojas do servidor ou diretamente para outros jogadores.</p>
-<p><strong>Há três formas de vender itens a outros jogadores:</strong></p>
+<p><strong>PlayerWarps</strong></p>
+<ol>
+<li>
+<p>As pw são locais públicos de teleporte que podem ser definidos por jogadores a um custo de 20.000 coins.</p>
+</li>
+<li>
+<p>Lembre-se de que criar uma pw em um local perigoso resulta em banimento temporário.</p>
+</li>
+<li>
+<p>Para criar uma pw fique no bloco em que deseja definir o ponto de teleporte e use /pw set.</p>
+</li>
+<li>
+<p>Feito isso você pode ir para a próxima etapa de sua loja, a criação do baú e placa.</p>
+</li>
+</ol>
+<p><strong>Baú e Placa</strong></p>
+<ol>
+<li>
+<p>Coloque um baú no chão onde será o local da sua loja.</p>
+</li>
+<li>
+<p>Pegue uma placa na mão e pressionando shift, clique com o botão direito do mouse para coloca-la no baú.</p>
+</li>
+<li>
+<p>Escreva nas linhas da placa os seguintes valores:</p>
+</li>
+<li>
+<p>01: Seu nick</p>
+</li>
+<li>02: A quantidade de item que será vendida/comprada por clique na placa</li>
+<li>03: B (valor) ou S (valor)</li>
+</ol>
+<p><em>Use B para que outros jogadores comprem de você e S para que vendam para você.</em></p>
 <ul>
-<li>Vendendo cara a cara dropando o item e confiando no jogador.</li>
-<li>Colocando seu item a venda no leilão. "/ah"</li>
-<li>Criando uma loja utilizando um baú e uma placa.</li>
+<li>04: Coloque uma "?"</li>
 </ul>
-<blockquote>
-<p>Tenha atenção ao fazer negócios com outros jogadores pois nem sempre
-todos são confiáveis e podem tentar aplicar golpes para roubar itens.</p>
-<p>Recomendamos a utilização dos sistemas do servidor e não a cara a cara.</p>
-</blockquote>
-<p>------------------------------------------- // -------------------------------------------</p>
+<p><em>Após criar a placa com a "?" clique com o botão direito do mouse na placa segurando o item que irá usar na loja.</em></p>
+<p><strong>Exemplo de placa:</strong></p>
+<ul>
+<li>01: DuzzyDev</li>
+<li>02: 10</li>
+<li>03: B 50</li>
+<li>04: Stone</li>
+</ul>
+<p><em>No exemplo acima estou vendendo 10 pedras (stone) pelo valor de 50 coins.</em></p>
 
               
             </article>
@@ -619,10 +578,10 @@ todos são confiáveis e podem tentar aplicar golpes para roubar itens.</p>
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.tabs", "navigation.tabs.sticky"], "translations": {"clipboard.copy": "Copiar para \u00e1rea de Transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de Transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum documento encontrado", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Perdido", "select.version.title": "Selecione a vers\u00e3o"}, "search": "../assets/javascripts/workers/search.js"}</script>
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.tabs", "navigation.tabs.sticky"], "translations": {"clipboard.copy": "Copiar para \u00e1rea de Transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de Transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum documento encontrado", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Perdido", "select.version.title": "Selecione a vers\u00e3o"}, "search": "../assets/javascripts/workers/search.bd0b6b67.min.js"}</script>
     
     
-      <script src="../assets/javascripts/bundle.js"></script>
+      <script src="../assets/javascripts/bundle.5413a266.min.js"></script>
       
     
   </body>
