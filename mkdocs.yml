@@ -24,9 +24,9 @@ theme:
 
   language: pt-BR
 
-  favicon: server-icon.png
+  favicon: resources/image/server-icon.png
 
-  logo: server-icon.png
+  logo: resources/image/server-icon.png
 
 nav:
   - Home: index.md

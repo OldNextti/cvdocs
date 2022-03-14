@@ -1,65 +1,83 @@
-## **Claims**
+<h1 style="font-size:30px;color:orange;text-align:center"><b>CLAIMS</b></h1>
 
->Com a proteção de terrenos é possível impedir que outros
-jogadores modifiquem suas construções ou peguem seus itens.
+<p style="font-size:15px;text-align:center"> 
+Com a proteção de terrenos é possível impedir que outros<br>
+modifiquem suas construções ou roubem seus itens.
+</p><br>
 
-1. Utilize o comando /kit claim in-game para receber a pá de proteção.
+<ol>
+    <li>Utilize o comando /kit claim in-game para receber a pá de proteção.</li>
+    <li>Segure-a na mão e informações aparecerão em seu chat.</li>
+    <li>Com a pá em mãos, clique com o botão direito do mouse em um bloco
+    no chão e ele será transformado temporariamente em um bloco diamante
+    para determinar a marcação inicial.</li>
+    <li>Feita a marcação inicial, ainda com a pá em mãos, clique com o botão
+    direito do mouse em outro bloco, formando uma área quadrada ou retangular.</li>
+    <li>Caso tenha realizado o procedimento corretamente, marcações em pedra
+    luminosa e bloco de ouro aparecerão indicando os limites do terreno.</li>
+</ol>
 
-2. Segure-a na mão e informações aparecerão em seu chat.
-
-3. Com a pá em mãos, clique com o botão direito do mouse em um bloco
-no chão e ele será transformado temporariamente em um bloco diamante
-para determinar a marcação inicial.
-
-4. Feita a marcação inicial, ainda com a pá em mãos, clique com o botão
-direito do mouse em outro bloco, formando uma área quadrada ou retangular.
-
-5. Caso tenha realizado o procedimento corretamente, marcações em pedra
-luminosa e bloco de ouro aparecerão indicando os limites do terreno.
-
->Para expandir seu terreno basta segurar a pá de proteção em suas mãos,
+<p style="font-size:15px;color:red;text-align:center">
+<i>Para expandir seu terreno basta segurar a pá de proteção em suas mãos,
 clicar com o botão direito do mouse no bloco de pedra luminosa que delimita
 seu terreno e então clicar novamente com o botão direito do mouse em um novo
-bloco para redefinir a área de seu terreno.
-#
+bloco para redefinir a área de seu terreno.</i>
+</p><br>
 
-## **Lojas**
+<h1 style="font-size:30px;color:orange;text-align:center"><b>LOJAS</b></h1>
 
->Há duas etapas para a criação de uma loja dentro do servidor. O baú e placa e as PlayerWarps.
+<p style="font-size:15px;text-align:center">
+Há duas etapas para a criação de uma loja: Baú e placa e as PlayerWarps.
+</p><br>
 
-**PlayerWarps**
+<h3 style="font-size:20px;color:orange;text-align:left"><b>PlayerWarps:</b></h3>
 
-1. As pw são locais públicos de teleporte que podem ser definidos por jogadores a um custo de 20.000 coins.
+<ol>
+    <li>As pw são locais públicos de teleporte que podem ser definidos por jogadores a um custo de 20.000 coins.</li>
+    <li>Lembre-se de que criar uma pw em um local perigoso resulta em banimento temporário.</li>
+    <li>Para criar uma pw fique no bloco em que deseja definir o ponto de teleporte e use /pw set.</li>
+    <li>Feito isso você pode ir para a próxima etapa de sua loja, a criação do baú e placa.</li>
+</ol>
 
-2. Lembre-se de que criar uma pw em um local perigoso resulta em banimento temporário.
+<h3 style="font-size:20px;color:orange;text-align:left"><b>Baú com placa:</b></h3>
 
-3. Para criar uma pw fique no bloco em que deseja definir o ponto de teleporte e use /pw set.
+<ol>
+    <li>Coloque um baú no chão onde será o local da sua loja.</li>
+    <li>Pegue uma placa na mão e pressionando shift, clique com o botão direito do mouse para coloca-la no baú.</li>
+    <li>Escreva nas linhas da placa os seguintes valores:</li>
+    <dd>01. Seu nick<br>
+        02. A quantidade de item que será vendio/comprado<br>
+        03. B (valor) ou S (valor)<br>
+        <blockquote><i>B significa que outros comprarão de você.</i></blockquote>
+        <blockquote><i>S significa que outros venderão para você.</i></blockquote>
+        04. Coloque uma "?"<br>
+        <blockquote><i>Após colocada a "?" segure o item em sua mão e clique na placa.</blockquote></i>
+</ol>
 
-4. Feito isso você pode ir para a próxima etapa de sua loja, a criação do baú e placa.
+<p style="font-size:15px;color:orange;text-align:left"><b>Exemplo de placa:</b><br>
+<img alt="placa de loja" src="../resources/image/placa.png"/>
+</p>
 
-**Baú e Placa**
+<!--
+Jobs
 
-1. Coloque um baú no chão onde será o local da sua loja.
+Com os Jobs você consegue coins realizando qualquer tipo de atividade pelo servidor.
+Para conseguir um novo Job você precisará de uma licença de trabalho.
+Cada tipo de licença está disponível em um tipo de NPC no spawn.
 
-2. Pegue uma placa na mão e pressionando shift, clique com o botão direito do mouse para coloca-la no baú.
+Exemplo: A licença de minerador se encontra com o mineiro e assim por diante.
 
-3. Escreva nas linhas da placa os seguintes valores:
+As licenças possuem preços diferentes, custando desde 10.000 coins até 160.000 coins.
+Consequentemente as profissões mais caras pagam mais coins aos seus trabalhadores.
 
-- 01: Seu nick
-- 02: A quantidade de item que será vendida/comprada por clique na placa
-- 03: B (valor) ou S (valor)
+É possível fazer parte de todas as profissões ao mesmo tempo, porém caso saia de uma
+profissão e deseje voltar, será necessário realizar a compra de uma nova licença.
 
-*Use B para que outros jogadores comprem de você e S para que vendam para você.*
+Os Jobs possuem o TOP Jobs da temporada e você pode consultar seu rank utilizando /jobs gtop.
 
-- 04: Coloque uma "?"
-
-*Após criar a placa com a "?" clique com o botão direito do mouse na placa segurando o item que irá usar na loja.*
-
-**Exemplo de placa:**
-
-- 01: DuzzyDev
-- 02: 10
-- 03: B 50
-- 04: Stone
-
-*No exemplo acima estou vendendo 10 pedras (stone) pelo valor de 50 coins.*
+Vantagens do TOP 1
+- 30 dias de VIP
+- 100.000 Coins
+- 5.000 Claimblocks
+- Licença lendária do explorador (Ganhe coins simplesmente andando pelo mapa)
+-->
