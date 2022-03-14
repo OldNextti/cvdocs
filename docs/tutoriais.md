@@ -1,18 +1,9 @@
-# **Tutoriais avançados**
-
-Através desta página você encontrará diversos tutoriais
-avançados sobre todos os sistemas que o servidor possui.
-
-E lembre-se, caso após realizar a leitura de um tutorial
-você ainda possuir dúvidas, abra um ticket em nosso discord
-e nosso suporte irá atende-lo da melhor forma possível.
-
-## **Claims**
+# **Claims**
 
 >Com a proteção de terrenos é possível impedir que outros
 jogadores modifiquem suas construções ou peguem seus itens.
 
-1. Utilize o comando `/kit claim` in-game para receber a pá de proteção.
+1. Utilize o comando /kit claim in-game para receber a pá de proteção.
 
 2. Segure-a na mão e informações aparecerão em seu chat.
 
@@ -31,30 +22,43 @@ clicar com o botão direito do mouse no bloco de pedra luminosa que delimita
 seu terreno e então clicar novamente com o botão direito do mouse em um novo
 bloco para redefinir a área de seu terreno.
 
-------------------------------------------- // -------------------------------------------
+# **Lojas**
 
-## **Coins e economia**
+>Há duas etapas para a criação de uma loja dentro do servidor. O baú e placa e as PlayerWarps.
 
->Os coins fazem parte da economia do servidor e com eles
-você pode comprar itens do servidor ou de outros jogadores.
+**PlayerWarps**
 
-A forma mais simples de se conseguir coins é através dos Jobs,
-pois você será pago pelas atividades que realizar no servidor.
-No entanto uma licença deve ser comprada através do NPC de Jobs
-para que você tenha acesso ao trabalho.
+1. As pw são locais públicos de teleporte que podem ser definidos por jogadores a um custo de 20.000 coins.
 
-Você também pode conseguir coins ganhando eventos, vendendo itens
-nas lojas do servidor ou diretamente para outros jogadores.
+2. Lembre-se de que criar uma pw em um local perigoso resulta em banimento temporário.
 
-**Há três formas de vender itens a outros jogadores:**
+3. Para criar uma pw fique no bloco em que deseja definir o ponto de teleporte e use /pw set.
 
-- Vendendo cara a cara dropando o item e confiando no jogador.
-- Colocando seu item a venda no leilão. "/ah"
-- Criando uma loja utilizando um baú e uma placa.
+4. Feito isso você pode ir para a próxima etapa de sua loja, a criação do baú e placa.
 
->Tenha atenção ao fazer negócios com outros jogadores pois nem sempre
-todos são confiáveis e podem tentar aplicar golpes para roubar itens.
+**Baú e Placa**
 
->Recomendamos a utilização dos sistemas do servidor e não a cara a cara.
+1. Coloque um baú no chão onde será o local da sua loja.
 
-------------------------------------------- // -------------------------------------------
+2. Pegue uma placa na mão e pressionando shift, clique com o botão direito do mouse para coloca-la no baú.
+
+3. Escreva nas linhas da placa os seguintes valores:
+
+- 01: Seu nick
+- 02: A quantidade de item que será vendida/comprada por clique na placa
+- 03: B (valor) ou S (valor)
+
+*Use B para que outros jogadores comprem de você e S para que vendam para você.*
+
+- 04: Coloque uma "?"
+
+*Após criar a placa com a "?" clique com o botão direito do mouse na placa segurando o item que irá usar na loja.*
+
+**Exemplo de placa:**
+
+- 01: DuzzyDev
+- 02: 10
+- 03: B 50
+- 04: Stone
+
+*No exemplo acima estou vendendo 10 pedras (stone) pelo valor de 50 coins.*
