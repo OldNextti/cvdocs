@@ -14,7 +14,7 @@ theme:
     primary: orange
 
   font:
-    text: Kanit
+    text: Concert One
 
   features:
     - navigation.tabs
