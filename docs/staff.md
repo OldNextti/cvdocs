@@ -1,3 +1,12 @@
+<style>
+body {
+  background-image: url('../resources/image/background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+
 <html>
     <head>
         <script type="text/javascript">
@@ -7,7 +16,6 @@
                 var content = document.getElementById("content");
                 var form = document.getElementById("form");
                 if (password == confirmPassword) {
-                    //window.location="welcome.html";
                     form.setAttribute("hidden", "true");
                     content.removeAttribute("hidden");
                 }
@@ -21,8 +29,8 @@
         <h1 style="font-size:30px;color:orange;text-align:center"><b>STAFF</b></h1>
         <form style="text-align:center" id='form'>
             <label for="pswd">Coloque sua senha:<br> </label>
-            <input type="password" id="pswd">
-            <input style="color:red" type="button" value="ENVIAR" onclick="checkPass();" />
+            <input style="color:black" type="password" id="pswd">
+            <input style="color: white;background: #1d1e26;" type="button" value="ENVIAR" onclick="checkPass();" />
         </form>   
         <div id='content' hidden>
             <p>teste</p>

@@ -206,30 +206,6 @@
         
   
   
-
-
-  <li class="md-tabs__item">
-    <a href="../form/" class="md-tabs__link">
-      Formulário
-    </a>
-  </li>
-
-      
-        
-  
-  
-
-
-  <li class="md-tabs__item">
-    <a href="../optifine/" class="md-tabs__link">
-      Optifine
-    </a>
-  </li>
-
-      
-        
-  
-  
     
   
 
@@ -237,6 +213,18 @@
   <li class="md-tabs__item">
     <a href="./" class="md-tabs__link md-tabs__link--active">
       Staff
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../form/" class="md-tabs__link">
+      Formulário
     </a>
   </li>
 
@@ -359,36 +347,6 @@
 
   
   
-  
-    <li class="md-nav__item">
-      <a href="../form/" class="md-nav__link">
-        Formulário
-      </a>
-    </li>
-  
-
-    
-      
-      
-      
-
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../optifine/" class="md-nav__link">
-        Optifine
-      </a>
-    </li>
-  
-
-    
-      
-      
-      
-
-  
-  
     
   
   
@@ -402,6 +360,21 @@
         Staff
       </a>
       
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../form/" class="md-nav__link">
+        Formulário
+      </a>
     </li>
   
 
@@ -420,6 +393,15 @@
                 
 
 
+<style>
+body {
+  background-image: url('../resources/image/background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+
 <p><html>
     <head>
         <script type="text/javascript">
@@ -429,7 +411,6 @@
                 var content = document.getElementById("content");
                 var form = document.getElementById("form");
                 if (password == confirmPassword) {
-                    //window.location="welcome.html";
                     form.setAttribute("hidden", "true");
                     content.removeAttribute("hidden");
                 }
@@ -443,8 +424,8 @@
         <h1 style="font-size:30px;color:orange;text-align:center"><b>STAFF</b></h1>
         <form style="text-align:center" id='form'>
             <label for="pswd">Coloque sua senha:<br> </label>
-            <input type="password" id="pswd">
-            <input style="color:red" type="button" value="ENVIAR" onclick="checkPass();" />
+            <input style="color:black" type="password" id="pswd">
+            <input style="color: white;background: #1d1e26;" type="button" value="ENVIAR" onclick="checkPass();" />
         </form> <br />
         <div id='content' hidden>
             <p>teste</p>
@@ -464,7 +445,7 @@
     <nav class="md-footer__inner md-grid" aria-label="Rodapé">
       
         
-        <a href="../optifine/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Optifine" rel="prev">
+        <a href="../loja/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Loja" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
@@ -473,11 +454,26 @@
               <span class="md-footer__direction">
                 Anterior
               </span>
-              Optifine
+              Loja
             </div>
           </div>
         </a>
       
+      
+        
+        <a href="../form/" class="md-footer__link md-footer__link--next" aria-label="Próximo: Formulário" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Próximo
+              </span>
+              Formulário
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
       
     </nav>
   
