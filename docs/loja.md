@@ -1,3 +1,12 @@
+<style>
+body {
+  background-image: url('../resources/image/background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+
 # **Sua doação é importante!**
 
 Com a sua doação o servidor pode continuar online e em constante evolução.

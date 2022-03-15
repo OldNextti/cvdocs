@@ -1,3 +1,12 @@
+<style>
+body {
+  background-image: url('../resources/image/background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+
 # **Como Instalar OPTIFINE**
 
 Nesse tutorial vamos ensinar como instalar o Optifine no Minecraft.

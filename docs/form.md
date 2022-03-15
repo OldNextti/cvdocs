@@ -1,3 +1,12 @@
+<style>
+body {
+  background-image: url('../resources/image/background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+
 # **Faça parte da Staff!**
 
 Preencha o formulário abaixo para fazer sua inscrição:

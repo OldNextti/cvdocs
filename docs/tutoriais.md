@@ -1,3 +1,12 @@
+<style>
+body {
+  background-image: url('../resources/image/background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+
 <h1 style="font-size:30px;color:orange;text-align:center"><b>CLAIMS</b></h1>
 
 <p style="font-size:15px;text-align:center"> 

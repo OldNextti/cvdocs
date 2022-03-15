@@ -1,3 +1,12 @@
+<style>
+body {
+  background-image: url('../resources/image/background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+
 # **Bem-vindo(a) a biblioteca**
 
 Acesse nosso discord caso tenha dúvidas: [Discord](https://discord.com/invite/n4KMe6pMYK)

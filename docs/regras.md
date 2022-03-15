@@ -1,6 +1,13 @@
-# **Regras do servidor e discord**
+<style>
+body {
+  background-image: url('../resources/image/background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
 
-## **01 - Programas ilegais**
+<h1 style="font-size:30px;color:orange;text-align:center"><b>HACKS E MODS</b></h1>
 
 Qualquer modificação que lhe garanta vantagens desleais não é permitido!
 

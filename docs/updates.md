@@ -36,6 +36,15 @@ Vence o último de pé na plataforma.
 
 >Seus itens serão removidos ao entrar no evento e devolvidos ao sair.
 
+<style>
+body {
+  background-image: url('../resources/image/background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+
 ### **2. Pinhata**
 
 Neste evento uma Pinhata é sumonada no spawn sempre que
