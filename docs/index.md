@@ -31,8 +31,8 @@ Lojas, Eventos, Clans, Mcmmo e muito mais!</p>
 <h3 style="font-size:25px;color:orange"><b>Segurança:</br></h3>
 
 <p>Nada mais chato do que um ambiente que deveria ser divertido sendo estragado por outros, não é mesmo?<br><br>
-Mas aqui você não será prejudicado por jogadores tóxicos e muito menos bombardeado por ódio alheio.<br>
-Através da nossa equipe e sistemas de moderação, nós garantimos um ambiente seguro e divertido.<br>
+Mas aqui você não será prejudicado por jogadores tóxicos e muito menos bombardeado por ódio alheio.<br><br>
+Através da nossa equipe e sistemas de moderação, nós garantimos um ambiente seguro e divertido.<br><br>
 Utilize o nosso sistema de claims para impedir que outros jogadores destruam suas construções.<br><br>
 Aqui no Cube Cave te entregamos uma experiência incrível para que realize o inimaginável!</p>
 

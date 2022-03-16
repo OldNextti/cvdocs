@@ -14,7 +14,7 @@ theme:
     primary: orange
 
   font:
-    text: Concert One
+    text: Roboto
 
   features:
     - navigation.tabs
@@ -29,10 +29,10 @@ theme:
   logo: resources/image/server-icon.png
 
 nav:
-  - Home: index.md
-  - Regras: regras.md
-  - Tutoriais: tutoriais.md
-  - Updates: updates.md
-  - Loja: loja.md
-  - Staff: staff.md
-  - Formulário: form.md
+  - HOME: index.md
+  - REGRAS: regras.md
+  - TUTORIAIS: tutoriais.md
+  - UPDATES: updates.md
+  - LOJA: loja.md
+  - VAGAS: form.md
+  - STAFF: staff.md
