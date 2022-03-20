@@ -20,21 +20,25 @@ body {
 
 <!-- Acesse nosso discord caso tenha dúvidas: [Discord](https://discord.com/invite/n4KMe6pMYK) -->
 
-<h3 style="font-size:25px;color:orange"><b>Cube Cave:</br></h3>
-
-<p>Fundado em 10/04/2021 o Cube Cave segue um modelo de servidor híbrido
-com sistemas mesclados entre Survival e RankUP.<br>
-Desenvolvemos um local onde você consegue vantagens apenas com a sua dedicação e
-consegue se tornar o jogador mais poderoso utilizando os sistemas de Jobs, Quests,
-Lojas, Eventos, Clans, Mcmmo e muito mais!</p>
-
-<h3 style="font-size:25px;color:orange"><b>Segurança:</br></h3>
-
-<p>Nada mais chato do que um ambiente que deveria ser divertido sendo estragado por outros, não é mesmo?<br><br>
-Mas aqui você não será prejudicado por jogadores tóxicos e muito menos bombardeado por ódio alheio.<br><br>
-Através da nossa equipe e sistemas de moderação, nós garantimos um ambiente seguro e divertido.<br><br>
-Utilize o nosso sistema de claims para impedir que outros jogadores destruam suas construções.<br><br>
-Aqui no Cube Cave te entregamos uma experiência incrível para que realize o inimaginável!</p>
+<h3 style="font-size:20px;color:orange;text-align:center"><b>Quem somos nós:</b></h3>
+<p style="text-align:center">Entenda um pouco sobre os nossos sistemas e a nossa história.<br><br></p>
+<pre style="text-align:center">
+Somos um ambiente online que provê a conexão entre jogadores do mundo
+inteiro, hospedado em ambiente linux e utilizando como base o jogo
+minecraft para realizarmos nossas modificações e levarmos aos jogadores
+uma forma mais completa e divertida de se jogar com outras pessoas.<br>
+O Cube Cave foi fundado em 10/04/2021 por DuzzyDev, atual CEO e teve
+inicialmente o nome de Cataclysm, sendo alterado posteriormente.<br>
+Nossos servidores são baseados no tema de sobrevivência, porém seguindo
+um modelo híbrido que mescla características survival com rankup, onde
+através do sistema de ranks os jogadores conseguem alcançar vantagens
+que apenas os VIPs teriam. Tornando a gameplay totalmente play to win.<br>
+Não possuímos qualquer filiação com as empresas Mojang AB ou Microsoft
+e nossos plugins são totalmente desenvolvidos por desenvolvedores da
+equipe do servidor ou por desenvolvedores da comunidade de minecraft.<br>
+Possuímos sistemas de monitoração em tempo real de todas as áreas do
+servidor e garantimos um ambiente totalmente seguro e controlado.<br>
+</pre>
 
 </body>
 </html>
